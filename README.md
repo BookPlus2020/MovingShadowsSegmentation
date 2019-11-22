@@ -1,4 +1,5 @@
-# MovingShadowsSegmentation
+Moving Cast Shadows Segmentation Using Illumination Invariant Feature.
+
 We give a detailed dataset for moving cast shadows segmentation.  It includes 14 scenes: five indoor scenes and nine outdoor scenes.
 The dataset used in the paper can be obtained from https://pan.baidu.com/s/1zBSboaGFD-8pxOxWxaiBfA   Extraction code: 63b7 .
 
@@ -17,8 +18,9 @@ http://changedetection.net/
 
 We also thanks others that once helped us to finish the paper.  
 
-If you used the results given in our TMM paper, please  cite it. 
 
-Bingshu Wang, Yong Zhao, C.L. Philip Chen "Moving Cast Shadows Segmentation Using Illumination Invariant Feature", IEEE Transactions on Multimedia, Nov.2019, preprint, DOI:10.1109/TMM.2019.2954752. 
+
+If you used the results given in our TMM paper, please  cite it. 
+"Bingshu Wang, Yong Zhao, C.L. Philip Chen "Moving Cast Shadows Segmentation Using Illumination Invariant Feature", IEEE Transactions on Multimedia, Nov.2019, preprint, DOI:10.1109/TMM.2019.2954752. "
 
 
